@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+
+.one{
+    background-color: antiquewhite;
+    width: 320px;
+    border-radius: 1pc;
+    height: 250px;
+    margin-bottom: 10px;
+ 
+}
+
+.two{
+    background-color: burlywood;
+    width: 320px;
+    border-radius: 1pc;
+    height: 250px;
+    margin-bottom: 10px;
+ 
+}
+
+.three{
+    background-color: red;
+    width: 320px;
+    border-radius: 1pc;
+    height: 250px;
+    margin-bottom: 10px;
+ 
+}
